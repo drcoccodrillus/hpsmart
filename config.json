@@ -1,0 +1,9 @@
+{
+    "smtp_server": "smtp.office365.com",
+    "smtp_port": 587,
+    "smtp_username": "crocodile@river.com",
+    "smtp_password": "1l0v3cr0c0d1l3",
+    "sender_email": "crocodile@river.com",
+    "allowed_domain": "hpeprint.com",
+    "default_printer_email": "crocoprinter@hpeprint.com"
+}
